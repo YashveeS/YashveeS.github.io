@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="Yashvee Shah MPH portfolio preview">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f7f3ec"/>
+      <stop offset="1" stop-color="#eadbc8"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#173f45"/>
+      <stop offset="1" stop-color="#7c4dff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1010" cy="140" r="210" fill="#7c4dff" opacity="0.14"/>
+  <circle cx="120" cy="540" r="170" fill="#0e6064" opacity="0.12"/>
+  <rect x="78" y="88" width="190" height="190" rx="42" fill="url(#mark)"/>
+  <text x="173" y="197" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="80" font-weight="800" fill="white" letter-spacing="-8">YS</text>
+  <text x="330" y="160" font-family="Arial, sans-serif" font-size="58" font-weight="800" fill="#17252a">Yashvee Shah, MPH</text>
+  <text x="330" y="220" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#173f45">NYU MPH · Implementation Science · Public Health</text>
+  <text x="80" y="390" font-family="Arial, sans-serif" font-size="54" font-weight="800" fill="#17252a">Translating evidence into real-world impact.</text>
+  <text x="80" y="450" font-family="Arial, sans-serif" font-size="28" fill="#5e6a6e">Health systems · Partnerships · M&E · Climate-health · Equity</text>
+</svg>
